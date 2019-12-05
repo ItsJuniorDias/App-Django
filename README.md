@@ -1,4 +1,4 @@
-# App-Django
+# App-Django :snake:
 first application with Django using python.
 
 ## Why?
