@@ -1,6 +1,12 @@
 # App-Django :snake:
 first application with Django using python.
 
+ ## About this Project
+
+The idea of the App is:
+
+_"Blog built with Django girls tutorial working on django basics"._
+
 ## Why?
 This project is part of my portfolio, so, I'll be happy if you could provide me any feedback about the project, code, structure or anything that you can report that could make me a better developer!
 
